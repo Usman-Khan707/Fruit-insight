@@ -24,8 +24,7 @@ The following datasets were used to train the model:
 
 ## Screenshots
 
-### Project Poster
-![Project Poster](images/poster.png)
+
 
 ### Model Architecture
 ![Model Architecture](images/architecture.png)
